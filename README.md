@@ -1,6 +1,7 @@
 Playing Controls
 ----------------
-Keyboard Controls: <br/>
+Keyboard Controls:
+
 1. a - move striker left
 2. d - move striker right
 3. spacebar - strike
@@ -12,7 +13,8 @@ Keyboard Controls: <br/>
 9. f2 - Board mode2
 10. f3 - Board mode3
 	
-Mouse Controls: <br/>
+Mouse Controls:
+
 1. left click - move pointer anticlockwise
 2. right click - move pointer clockwise
 3. click and drag mouse - move the pointer accordingly
