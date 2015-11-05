@@ -445,7 +445,7 @@ int main(int argc, char **argv) {
 
     glutInitWindowSize(windowWidth, windowHeight);
     glutInitWindowPosition((w - windowWidth) / 2, (h - windowHeight) / 2);
-    glutCreateWindow("Carom-OpenGL");
+    glutCreateWindow("Carrom-OpenGL");
     initRendering();
 
     glutDisplayFunc(drawScene);
