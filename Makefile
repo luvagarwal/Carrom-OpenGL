@@ -2,7 +2,7 @@ CC = g++
 CFLAGS = -Wall
 PROG = sampleCollision
 
-SRCS = Carom.cpp
+SRCS = Carrom.cpp
 LIBS = -lglut -lGL -lGLU
 
 all: $(PROG)
